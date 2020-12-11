@@ -1,16 +1,15 @@
 # StrainGageAmp
-Nicholas Szczecinski 2018
-Case Western Reserve University
-Cleveland, Ohio, USA
+Nicholas Szczecinski 2020
+West Virginia University
+Morgantown, West Virginia, USA
 
-EAGLE files for a 5V, 6-channel amplifier for 350 Ohm strain gages.
+EAGLE files for a 5V, 3-channel amplifier for 350 Ohm strain gages.
 
-Strain gages, on Digikey: 1033-1014-ND 
+On Digikey:
+Strain gauges -                    1033-1009-ND
+3 LM324 Quad Op Amps -             296-1391-5-ND
+9 352 Ohm 0603 SMD Resistors -     13-RT0603DRE07352RLCT-ND 
+6 2.2 kOhm 0603 SMD Resistors -    P121436CT-ND
+6 560 kOhm 0603 SMD Resistors -    749-1753-1-ND 
 
-Here are the other components needed, with Mouser part numbers:
-6 LM324 Quad Op Amps -                595-LM324DR
-18 352 Ohm Thin Film Resistors -      603-RT0603DRE07352RL
-12 2.2 kOhm Thick Film Resistors -    755-ESR18EZPF2201
-12 560 kOhm Thick Film Resistors -    667-ERJ-8ENF5603V
-
-You will also need 14 pinheaders: one group of 8, and six groups of 2.
+You will also need 11 pinheaders: one group of 5, and three groups of 2.
